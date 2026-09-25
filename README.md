@@ -143,7 +143,7 @@ The same tokenizer used during training must be used during prediction to preser
 
 Clone the repository:
 
-    git clone https://github.com/YOUR_USERNAME/lstm-word-oracle.git
+    git clone https://github.com/saif-mohammed9505/lstm-word-oracle.git
 
 Move into the project directory:
 
